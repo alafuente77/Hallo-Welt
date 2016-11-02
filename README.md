@@ -1,9 +1,6 @@
-# Hallo-Welt
+Hola Mundo.
 
-Hallo Ales zusammen!
-hiere bin Ich.. gut, aber Ich rauge nicht mear, und Ich trinke eine kaltes bier jeden fritag nacht.
-un du?
-tchüss!
-
-Ok, so I´ve pulled a request and everythig went fine.. so now I'm trying once more..
-
+Hola a todos! 
+si, ahora me canse del ingles y el aleman asi que todo en español.
+la idea es una vez que haga el pull request de estas modificaciones y borre el branch.. 
+retrotraer al estado anterior..
